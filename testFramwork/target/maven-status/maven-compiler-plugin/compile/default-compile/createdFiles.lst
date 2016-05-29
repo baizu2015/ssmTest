@@ -1,0 +1,13 @@
+com\cn\manage\unit\MenuGenerate.class
+com\cn\manage\dao\ModuleMapper.class
+com\cn\manage\service\IUserService.class
+com\cn\manage\service\impl\ModuleService.class
+com\cn\manage\pojo\Module.class
+com\cn\manage\dao\UserMapper.class
+com\cn\manage\controller\HomeController.class
+com\cn\manage\pojo\User.class
+com\cn\manage\controller\UserController.class
+com\cn\manage\controller\ErrorController.class
+com\cn\manage\pojo\ModuleMenu.class
+com\cn\manage\service\impl\UserService.class
+com\cn\manage\service\IModuleService.class
